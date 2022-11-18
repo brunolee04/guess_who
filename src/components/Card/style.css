@@ -103,7 +103,7 @@
 .personImg{
     width: 170px;
     height: 230px;
-    background: #fff;
+    background: #eb0202a6;
 }
 
 
@@ -124,31 +124,63 @@
 
 .personImg .eyes{
     position: relative;
-    top: -130px;
-    left: 10px;
+    top: -100px;
+    left: 15px;
 }
 
 .personImg .eyebrow{
     position: relative;
     top: -205px;
-    left: 10px;
+    left: 15px;
   }
 
 .personImg .noose{
     position: relative;
-    top: -70px;
-    left: 10px;
+    top: -120px;
+    left: 15px;
+    min-height: 24px;
 }
 
 .personImg .beard{
   position: relative;
-  top: -137px;
-  left: 2px;
+  top: -149px;
+  left: 5px;
+  min-height: 70px;
 }
 
 .personImg .mouth{
   position: relative;
-  top: -225px;
-  left: 5px;
+  top: -237px;
+  left: 10px;
 }
+
+.personImg .hair{
+  position: relative;
+  top: -458px;
+  left: -22px;
+  min-height: 170px;
+}
+
+.personImg .mustache{
+  position: relative;
+  top: -286px;
+  left: 17px;
+  min-height: 45px;
+}
+
+
+.personImg .glasses{
+  position: relative;
+  top: -544px;
+  left: 5px;
+  min-height: 45px;
+}
+
+.personImg .hat{
+  position: relative;
+  top: -675px;
+  left: 8px;
+  min-height: 170px;
+}
+
 
