@@ -11,6 +11,76 @@ export function Home() {
 
       <div className="container">
 
+
+
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
         <div className='row'>
           <div className='col-md-6 col-double-card'>
               <Card/>
@@ -38,6 +108,93 @@ export function Home() {
               <Card/>
           </div>
         </div>
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+        <div className='row'>
+          <div className='col-md-6 col-double-card'>
+              <Card/>
+              <Card/>
+          </div>
+        </div>
+
+
+
+
+
+
       </div>      
     </div>
   )
